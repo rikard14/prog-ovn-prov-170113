@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Formler
+comment0.text=\r\n\ Facit\ Formler\r\n\ \r\n\ @author\ Rikard\ Karlsson\ \r\n\ @version\ 2017-01-24\r\n
+comment1.params=
+comment1.target=void\ printNumber()
+comment2.params=n
+comment2.target=void\ number(int)
+comment3.params=n
+comment3.target=double\ invertedForSum(int)
+numComments=4
